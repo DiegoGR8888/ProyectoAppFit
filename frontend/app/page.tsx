@@ -11,7 +11,14 @@ export default function Home() {
           href="/register"
           className="bg-white text-indigo-600 font-semibold px-6 py-3 rounded-xl shadow-lg hover:bg-gray-100 transition"
         >
-          Empieza ahora
+          Crear cuenta
+        </a>
+
+        <a
+          href="/sesion"
+          className="bg-white text-indigo-600 font-semibold px-6 py-3 rounded-xl shadow-lg hover:bg-gray-100 transition"
+        >
+          Iniciar sesion
         </a>
       </section>
 
